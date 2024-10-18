@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: server_room_system
+Version: 1.0.0
+Summary: A simple Server Room System
+Author: Boseong Park
+Maintainer: Boseong Park
+License: Apache-2.0
+Project-URL: Repository, https://github.com/tdhdjv/server_room_system.repo.git
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown

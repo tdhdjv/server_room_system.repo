@@ -14,7 +14,11 @@ maintainers = [
     {name = "Boseong Park"}
 ]
 description = "A simple Server Room System"
-llicense = "Apache-2.0"
+license = {text = "Apache-2.0"}
 readme = 'README.md'
+
+[project.urls]
+
+Repository = "https://github.com/tdhdjv/server_room_system.repo.git"
 
 
